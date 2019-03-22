@@ -1,0 +1,11 @@
+{
+  "name": "graphlqlproject",
+  "version": "1.0.0",
+  "description": "My first graphql project with nodejs and mongo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raul Torrefiel Jr (skemb321)",
+  "license": "ISC"
+}
